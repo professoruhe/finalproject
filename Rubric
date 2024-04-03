@@ -1,0 +1,18 @@
+50 points total
+
+10 points for creation of a github repository (you can name it what you want)
+
+3 different views (10 points each)
+
+10 points: Personal View (this could be any notes you would use while researching, these graphs don't need to make sense to anyone else...YOU are the audience)
+
+10 points: General Public view (these are generally more basic graphs, not overwhelming...avoid jargon)
+
+10 points: Peer view (this is similar to the personal view in that you can get pretty technical or advanced...but what you generate should make sense to someone in your 'field' of work.
+
+Full credit for a view consists of:
+               2.5 points commenting before any graph/chart/visualization what you are trying to show.  Comment code uses an octothorpe and doesn't render an image, but can help future programmers understand where you are coming from.
+               2.5 points at least 2 visualizations at each level
+               2.5 points Use the same data source as your other views
+               2.5 points Naming the file correctly "IS445_UNIVERSITYID_General_Public.ipynb", "IS445_UNIVERSITYID_Individual.ipynb", "IS445_UNIVERSITYID_Peer.ipynb"
+                          
